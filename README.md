@@ -11,7 +11,9 @@ I'm Hamed, passionate about learning new technologies and improving my skills.
 - JavaScript
 - Python
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamedRazizadeh-hub&layout=compact)
+  HTML, JavaScript, Python
+  Note: currently the link of top language did not work, because of that I use this way to show my top languages
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=HamedRazizadeh-hub)
 
