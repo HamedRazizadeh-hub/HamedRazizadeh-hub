@@ -1,6 +1,6 @@
 # Hi, I'm Hamed Razizadeh 👋
 
-I'm a Junior Web Developer based in the Netherlands, currently studying web development with HackYourFuture.  
+I'm a Junior Web Developer based in Utrecht, the Netherlands, currently studying web development with HackYourFuture.  
 I enjoy building practical web applications, learning modern JavaScript, and improving my problem-solving skills through real projects.
 
 ---
