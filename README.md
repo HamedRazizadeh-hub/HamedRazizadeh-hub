@@ -35,8 +35,9 @@ Git · GitHub · GitHub Actions · VS Code · Postman · Render · DBeaver
 
 ## 📌 Featured Projects
 
-### 🍽️ Cookbook — Recipe Web App
-A single-page recipe application built with JavaScript, Vite, Express and SQLite.
+### 🍽️ [Cookbook — Recipe Web App](https://github.com/HamedRazizadeh-hub/c55-core-project-group-4)
+
+A team-built single-page recipe application developed as part of the HackYourFuture Core Program.
 
 Features:
 - Search recipes from TheMealDB API
@@ -44,9 +45,9 @@ Features:
 - Save favorite recipes with localStorage
 - Filter recipes by dish name, country and category
 - Backend API with Express
-- Deployed with Render
+- Testing with Vitest
 
-Tech used: JavaScript, Vite, Node.js, Express, SQLite, REST API, localStorage
+Tech used: JavaScript, Vite, Node.js, Express, SQLite, REST API, localStorage, Vitest
 
 ### 🏫 School Management Project
 A JavaScript project for managing school-related data and practicing DOM manipulation, functions and application structure.
@@ -71,4 +72,3 @@ Main topics I have practiced:
 
 - GitHub: [HamedRazizadeh-hub](https://github.com/HamedRazizadeh-hub)
 - LinkedIn: [linkedin.com/in/hamed-razizadeh-5b97304b](https://www.linkedin.com/in/hamed-razizadeh-5b97304b/)
-- Portfolio: Add your portfolio link here
