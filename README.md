@@ -1,34 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=18&pause=1000&color=1341AB&width=435&height=100&lines=I'm+Hamed%2C+passionate+about+learning+new+technologies+and+improving+my+skills.)](https://git.io/typing-svg)
-## 👋 About Me
-I'm Hamed, passionate about learning new technologies and improving my skills.
-## 🔍 Interests
-- Music
-- Movie
-- Web Development
-- Football
-## 📚 Technologies I Want to Learn
-- HTML
-- JavaScript
-- Python
-## 📊 Top Languages
-- HTML, JavaScript, Python
-- Note: currently the link of top language did not work, because of that I use this way to show my top languages
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=HamedRazizadeh-hub)](https://git.io/streak-stats)
+# Hi, I'm Hamed Razizadeh 👋
+
+I'm a Junior Web Developer based in the Netherlands, currently studying web development with HackYourFuture.  
+I enjoy building practical web applications, learning modern JavaScript, and improving my problem-solving skills through real projects.
+
+## 🚀 About Me
+
+- 🌱 Currently learning: JavaScript, React, Node.js, Express, SQLite, CI/CD and deployment
+- 💻 Interested in: Frontend development, full-stack web apps, clean UI, and practical problem solving
+- 🛠️ Building projects with: HTML, CSS, JavaScript, React, Node.js and SQLite
+- 📍 Based in the Netherlands
+- 🎯 Goal: Start my career as a Junior Web Developer
+
+## 🧰 Tech Stack
+
+### Frontend
+HTML5 · CSS3 · JavaScript · React · Vite
+
+### Backend
+Node.js · Express · SQLite · REST APIs
+
+### Tools
+Git · GitHub · GitHub Actions · VS Code · Postman · Render · DBeaver
+
+## 📌 Featured Projects
+
+### 🍽️ Cookbook — Recipe Web App
+A single-page recipe application built with JavaScript, Vite, Express and SQLite.
+
+Features:
+- Search recipes from TheMealDB API
+- Browse cohort recipes from a local SQLite database
+- Save favorite recipes with localStorage
+- Filter recipes by dish name, country and category
+- Backend API with Express
+- Deployed with Render
+
+Tech used: JavaScript, Vite, Node.js, Express, SQLite, REST API, localStorage
+
+### 🏫 School Management Project
+A JavaScript project for managing school-related data and practicing DOM manipulation, functions and application structure.
+
+Tech used: JavaScript, HTML, CSS
 
 
-<!--
-**HamedRazizadeh-hub/HamedRazizadeh-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 My Learning Journey
 
-Here are some ideas to get you started:
+I'm currently developing my skills through the HackYourFuture program, where I work on weekly assignments, team projects, pull requests, code reviews and real-world development workflows.
 
-- 🔭 I’m currently working on improving my knowledge
-- 🌱 I’m currently learning programming in Hack Your Future
-- 👯 I’m looking to collaborate on open source projects and learning exercises
-- 🤔 I’m looking for help with debugging my projects and understanding new technologies
-- 💬 Ask me about anything! I will find the answer
-- 📫 How to reach me: Hamed.Razizadeh@Gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love music and learning new knowledge
--->
+Main topics I have practiced:
+- JavaScript fundamentals
+- Asynchronous JavaScript and APIs
+- Object-oriented programming
+- Databases and persistence
+- Testing and debugging
+- Git, GitHub and pull requests
+- CI/CD and deployment
+
+## 📫 Connect with Me
+
+- GitHub: [HamedRazizadeh-hub](https://github.com/HamedRazizadeh-hub)
+- LinkedIn: linkedin.com/in/hamed-razizadeh-5b97304b
+- Portfolio: Add your portfolio link here
