@@ -35,7 +35,8 @@ Git · GitHub · GitHub Actions · VS Code · Postman · Render · DBeaver
 
 ## 📌 Featured Projects
 
-### 🍽️ [Cookbook — Recipe Web App](https://github.com/HamedRazizadeh-hub/c55-core-project-group-4)
+### 🍽️ [Cookbook — Recipe Web App]
+(https://github.com/HamedRazizadeh-hub/c55-core-project-group-4)
 
 A team-built single-page recipe application developed as part of the HackYourFuture Core Program.
 
