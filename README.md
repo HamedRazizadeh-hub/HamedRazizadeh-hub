@@ -59,5 +59,5 @@ Main topics I have practiced:
 ## 📫 Connect with Me
 
 - GitHub: [HamedRazizadeh-hub](https://github.com/HamedRazizadeh-hub)
-- LinkedIn: linkedin.com/in/hamed-razizadeh-5b97304b
+- LinkedIn: [linkedin.com/in/hamed-razizadeh-5b97304b](https://www.linkedin.com/in/hamed-razizadeh-5b97304b/)
 - Portfolio: Add your portfolio link here
