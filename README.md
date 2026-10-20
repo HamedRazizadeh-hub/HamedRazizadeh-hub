@@ -4,7 +4,7 @@
 
 I build responsive web applications with React, Next.js, and TypeScript. I enjoy turning practical problems into clear, easy-to-use interfaces and connecting them to real data through APIs.
 
-After completing the HackYourFuture web development program, I'm continuing to grow through personal and team projects, with a focus on maintainable components, thoughtful user experiences, and testing.
+After completing the HackYourFuture web development program, I'm continuing to grow through personal and team projects, focusing on maintainable components, thoughtful user experiences, and testing.
 
 **I'm looking for junior frontend developer opportunities where I can contribute, learn from experienced developers, and grow with a team.**
 
@@ -12,19 +12,26 @@ After completing the HackYourFuture web development program, I'm continuing to g
 
 ## Featured Projects
 
-### [Final Job Search Platform](https://github.com/HamedRazizadeh-hub/c55-final-project-group-C-mirror)
+### [JobMatch — Job Search & Application Tracker](https://github.com/HamedRazizadeh-hub/c55-final-project-group-C)
 
-A team project built for the HackYourFuture final project, bringing together frontend, backend, and data engineering. The application includes job browsing, job details, profile management, saved jobs, and matching interfaces.
+A collaborative HackYourFuture final project that helps users discover jobs, explore matches, save opportunities, and track application progress.
 
-The frontend uses **Next.js, React, and TypeScript**, with a Spring Boot API and PostgreSQL supporting the wider application.
+**My contributions:** Built frontend screens and integrated backend APIs for job search, filters, job details, saved jobs, application tracking, profile preferences, matching results, and authentication flows.
+
+**Frontend:** Next.js, React, TypeScript, CSS, and Biome.  
+**Team stack:** Spring Boot, PostgreSQL, Python, dbt, and Airflow.
+
+[My fork](https://github.com/HamedRazizadeh-hub/c55-final-project-group-C) · [Original team repository](https://github.com/HackYourFutureProjects/c55-final-project-group-C)
 
 ### [Football Teams Explorer](https://github.com/HamedRazizadeh-hub/football-teams-explorer)
 
-A **React and TypeScript** app for finding football clubs and national teams through API-Football. Users can search by team name or country and explore team and stadium details.
+A React and TypeScript app for finding football clubs and national teams through API-Football. Users can search by team name or country and explore team and stadium details.
 
-Built with React Router, Tailwind CSS, and Vite, with responsive layouts, light and dark themes, form validation, and loading and error states.
+Includes dynamic routes, responsive layouts, light and dark themes, form validation, and loading and error states.
 
-[Live demo](https://football-teams-explorer.vercel.app/)
+**Built with:** React, TypeScript, React Router, Tailwind CSS, and Vite.
+
+[Live demo](https://football-teams-explorer.vercel.app/) · [Repository](https://github.com/HamedRazizadeh-hub/football-teams-explorer)
 
 ### [Cookbook — Recipe Web App](https://github.com/HamedRazizadeh-hub/c55-core-project-group-4)
 
@@ -32,9 +39,9 @@ A team-built recipe app combining TheMealDB recipes with dishes shared by our Ha
 
 **My contributions:** TheMealDB API services and routes, favorites stored in localStorage, favorites rendering and modal integration, unit tests, and ingredient sorting.
 
-Built with **JavaScript, Vite, Node.js, Express, SQLite, and Vitest**.
+**Built with:** JavaScript, Vite, Node.js, Express, SQLite, and Vitest.
 
-[Live demo](https://c55-core-project-group-4-cookbook.onrender.com/)
+[Live demo](https://c55-core-project-group-4-cookbook.onrender.com/) · [Repository](https://github.com/HamedRazizadeh-hub/c55-core-project-group-4)
 
 ## Technologies & Workflow
 
@@ -45,4 +52,4 @@ Built with **JavaScript, Vite, Node.js, Express, SQLite, and Vitest**.
 
 ## What I'm Focusing On
 
-Building accessible, responsive interfaces; strengthening my React, Next.js, and TypeScript skills; and writing code that is easier to test and maintain. I value clear communication, useful feedback, and shared responsibility in team projects.
+Building accessible, responsive interfaces, strengthening my React and TypeScript skills, and writing code that is easier to test and maintain. I value clear communication, useful feedback, and shared responsibility in team projects.
