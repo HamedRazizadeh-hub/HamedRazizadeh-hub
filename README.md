@@ -1,75 +1,48 @@
-# Hi, I'm Hamed Razizadeh 👋
+Hi, I'm Hamed Razizadeh 👋
 
-I'm a Junior Web Developer based in Utrecht, the Netherlands, currently studying web development with HackYourFuture.  
-I enjoy building practical web applications, learning modern JavaScript, and improving my problem-solving skills through real projects.
+**Frontend Developer based in Utrecht, the Netherlands**
 
----
+I build responsive web applications with React, Next.js, and TypeScript. I enjoy turning practical problems into clear, easy-to-use interfaces and connecting them to real data through APIs.
 
-### 🚀 I'm looking for junior web developer opportunities
+After completing the HackYourFuture web development program, I'm continuing to grow through personal and team projects, with a focus on maintainable components, thoughtful user experiences, and testing.
 
-### Contact Me 🤝
+**I'm looking for junior frontend developer opportunities where I can contribute, learn from experienced developers, and grow with a team.**
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)  
-[GitHub](https://github.com/HamedRazizadeh-hub)
+[LinkedIn](https://www.linkedin.com/in/hamed-razizadeh-5b97304b/) · [GitHub](https://github.com/HamedRazizadeh-hub)
 
----
+## Featured Projects
 
-## 🚀 About Me
+### [Final Job Search Platform](https://github.com/HamedRazizadeh-hub/c55-final-project-group-C-mirror)
 
-- 🌱 Currently learning: JavaScript, React, Node.js, Express, SQLite, CI/CD and deployment
-- 💻 Interested in: Frontend development, full-stack web apps, clean UI, and practical problem solving
-- 🛠️ Building projects with: HTML, CSS, JavaScript, React, Node.js and SQLite
-- 📍 Based in the Netherlands
-- 🎯 Goal: Start my career as a Junior Web Developer
+A team project built for the HackYourFuture final project, bringing together frontend, backend, and data engineering. The application includes job browsing, job details, profile management, saved jobs, and matching interfaces.
 
-## 🧰 Tech Stack
+The frontend uses **Next.js, React, and TypeScript**, with a Spring Boot API and PostgreSQL supporting the wider application.
 
-### Frontend
-HTML5 · CSS3 · JavaScript · React · Vite
+### [Football Teams Explorer](https://github.com/HamedRazizadeh-hub/football-teams-explorer)
 
-### Backend
-Node.js · Express · SQLite · REST APIs
+A **React and TypeScript** app for finding football clubs and national teams through API-Football. Users can search by team name or country and explore team and stadium details.
 
-### Tools
-Git · GitHub · GitHub Actions · VS Code · Postman · Render · DBeaver
+Built with React Router, Tailwind CSS, and Vite, with responsive layouts, light and dark themes, form validation, and loading and error states.
 
-## 📌 Featured Projects
+[Live demo](https://football-teams-explorer.vercel.app/)
 
-### 🍽️ [Cookbook — Recipe Web App]
-(https://github.com/HamedRazizadeh-hub/c55-core-project-group-4)
+### [Cookbook — Recipe Web App](https://github.com/HamedRazizadeh-hub/c55-core-project-group-4)
 
-A team-built single-page recipe application developed as part of the HackYourFuture Core Program.
+A team-built recipe app combining TheMealDB recipes with dishes shared by our HackYourFuture cohort.
 
-Features:
-- Search recipes from TheMealDB API
-- Browse cohort recipes from a local SQLite database
-- Save favorite recipes with localStorage
-- Filter recipes by dish name, country and category
-- Backend API with Express
-- Testing with Vitest
+**My contributions:** TheMealDB API services and routes, favorites stored in localStorage, favorites rendering and modal integration, unit tests, and ingredient sorting.
 
-Tech used: JavaScript, Vite, Node.js, Express, SQLite, REST API, localStorage, Vitest
+Built with **JavaScript, Vite, Node.js, Express, SQLite, and Vitest**.
 
-### 🏫 School Management Project
-A JavaScript project for managing school-related data and practicing DOM manipulation, functions and application structure.
+[Live demo](https://c55-core-project-group-4-cookbook.onrender.com/)
 
-Tech used: JavaScript, HTML, CSS
+## Technologies & Workflow
 
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite
+- **APIs & backend:** REST APIs, Node.js, Express, SQLite
+- **Testing & collaboration:** Vitest, Git, GitHub, pull requests, code reviews, GitHub Actions
+- **Deployment:** Vercel, Render
 
-## 📚 My Learning Journey
+## What I'm Focusing On
 
-I'm currently developing my skills through the HackYourFuture program, where I work on weekly assignments, team projects, pull requests, code reviews and real-world development workflows.
-
-Main topics I have practiced:
-- JavaScript fundamentals
-- Asynchronous JavaScript and APIs
-- Object-oriented programming
-- Databases and persistence
-- Testing and debugging
-- Git, GitHub and pull requests
-- CI/CD and deployment
-
-## 📫 Connect with Me
-
-- GitHub: [HamedRazizadeh-hub](https://github.com/HamedRazizadeh-hub)
-- LinkedIn: [linkedin.com/in/hamed-razizadeh-5b97304b](https://www.linkedin.com/in/hamed-razizadeh-5b97304b/)
+Building accessible, responsive interfaces; strengthening my React, Next.js, and TypeScript skills; and writing code that is easier to test and maintain. I value clear communication, useful feedback, and shared responsibility in team projects.
