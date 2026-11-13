@@ -8,7 +8,7 @@ I now apply that same way of thinking to frontend development: understanding how
 
 After completing HackYourFuture, I have been working with React, Next.js, TypeScript, APIs, testing, and collaborative GitHub workflows through both team and personal projects.
 
-[LinkedIn](https://www.linkedin.com/in/hamed-razizadeh-5b97304b/) · [Email](mailto:Hamed.Razizadeh@gmail.com)
+[LinkedIn](https://nl.linkedin.com/in/hamed-razizadeh) · [Email](mailto:Hamed.Razizadeh@gmail.com)
 
 ## Featured Project
 
