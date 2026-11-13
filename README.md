@@ -22,7 +22,6 @@ A collaborative HackYourFuture final project designed to help job seekers search
 
 [Live Demo](https://c55c.hyf.dev/) · [Repository](https://github.com/HamedRazizadeh-hub/c55-final-project-group-C)
 
-```md
 ## Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,4 +35,3 @@ A collaborative HackYourFuture final project designed to help job seekers search
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-```
