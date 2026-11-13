@@ -35,3 +35,11 @@ A collaborative HackYourFuture final project designed to help job seekers search
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## What I'm Focusing On
+
+I'm strengthening my React and TypeScript skills by building practical frontend projects that solve real user problems.
+
+I'm also exploring AI-assisted and agentic development workflows, using AI to support implementation, code review, debugging, testing, and quality checks while keeping human review and approval at each step.
+
+My current focus is on building responsive, accessible interfaces, integrating real APIs, improving testing and code quality, and working with structured Git/GitHub workflows similar to professional development teams.
