@@ -12,7 +12,7 @@ After completing HackYourFuture, I have been working with React, Next.js, TypeSc
 
 ## Featured Project
 
-### [JobMatch — Job Search & Application Tracker](https://github.com/HamedRazizadeh-hub/c55-final-project-group-C)
+### [JobMatch — Job Search & Application Tracker](https://github.com/HamedRazizadeh-hub/jobmatch)
 
 A collaborative HackYourFuture final project designed to help job seekers search for relevant roles, understand their matches, save opportunities, and track application progress.
 
@@ -20,7 +20,7 @@ A collaborative HackYourFuture final project designed to help job seekers search
 
 **Built with:** Next.js, React, TypeScript, REST APIs, Vitest, and collaborative Git/GitHub workflows.
 
-[Live Demo](https://c55c.hyf.dev/) · [Repository](https://github.com/HamedRazizadeh-hub/jobmatch))
+[Live Demo](https://c55c.hyf.dev/) · [Repository](https://github.com/HamedRazizadeh-hub/jobmatch)
 
 ## Technologies
 
